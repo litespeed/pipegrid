@@ -1,0 +1,4 @@
+pipegrid
+========
+
+The PipeGrid project
